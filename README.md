@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! Soy Javier 👋</h1>
 
 <p align="center">
-  💻 Apasionado por la tecnología | 🎮 Fan de los videojuegos | 🎬 Amante del cine
+  💻 Apasionado por la tecnología | 🎮 Amante de los videojuegos | 🎬 Fan del cine
 </p>
 
 ---
