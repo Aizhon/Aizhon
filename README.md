@@ -44,7 +44,7 @@ Soy un **Desarrollador Full-Stack** con conocimientos en:
 ## ⚡ Curiosidades
 
 - 🎮 Me encanta la tecnología y los videojuegos. Fui jugador profesional del videojuego League of Legends.
-- 🎥 El cine es una de mis grandes pasiones.
+- 🎥 El cine y sobre todo Star Wars son de mis grandes pasiones.
 - 🤝 Me encanta trabajar con personas que también disfrutan del aprendizaje constante.
   
 ---
