@@ -11,7 +11,7 @@
 Soy un **Desarrollador Full-Stack** con conocimientos en:
 
 - ⚙️ **Frontend:** HTML, CSS, JavaScript, React  
-- 🛠️ **Backend:** Flask  
+- 🛠️ **Backend:** Flask (Python)
 - 🗃️ **Base de Datos:** MySQL  
 
 📚 Siempre estoy en busca de **nuevos retos**, oportunidades de aprendizaje y formas de expandir mi red profesional.
